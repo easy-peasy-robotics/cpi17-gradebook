@@ -8,8 +8,8 @@
 # - curl
 # - jq
 
-org=vvv17-git
-team=vvv17-students
+org=easy-peasy-robotics
+team=epr-test-team
 curdir=$(pwd)
 
 if [ -d build ]; then

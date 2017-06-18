@@ -1,4 +1,4 @@
-## Gradebook of VVV17 Git
+## Gradebook of Easy Peasy Robotics
 
 ### [**pattacini**](https://github.com/pattacini) grade
 

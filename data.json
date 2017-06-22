@@ -5,6 +5,11 @@
             "name": "assignment_control-pid",
             "url": "https://github.com/vvv-school/assignment_control-pid.git",
             "score": 1
-        }
+        },
+        {
+            "name": "assignment_git",
+            "url": "https://github.com/vvv-school/assignment_git.git",
+            "score": 1
+        }        
     ]
 }

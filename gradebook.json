@@ -11,9 +11,9 @@
     "assignments": [
       {
         "name": "assignment_control-pid-pattacini",
-        "status": ":x:",
-        "last_commit_date": "2017-06-23 09:49:02 UTC",
-        "score": 1
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-06-23 09:53:34 UTC",
+        "score": 18
       },
       {
         "name": "assignment_git-pattacini",
@@ -22,6 +22,6 @@
         "score": 1
       }
     ],
-    "score": 2
+    "score": 20
   }
 ]

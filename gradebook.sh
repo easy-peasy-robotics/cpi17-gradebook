@@ -9,7 +9,7 @@
 # - jq
 
 org=easy-peasy-robotics
-team=easy-peasy-robotics/epr-test-team
+team=easy-peasy-robotics/cpi17-campuseros
 curdir=$(pwd)
 
 if [ -d build ]; then

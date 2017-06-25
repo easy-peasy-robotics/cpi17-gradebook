@@ -5,11 +5,11 @@
     "assignments": [
       {
         "name": "assignment_control-pid-pattacini",
-        "status": ":x:",
-        "last_commit_date": "2017-06-25 13:20:18 UTC",
-        "score": 1
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-06-25 13:23:51 UTC",
+        "score": 26
       }
     ],
-    "score": 0
+    "score": 26
   }
 ]

@@ -4,9 +4,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_control-pid-pattacini](https://github.com/easy-peasy-robotics/assignment_control-pid-pattacini) | :x: | **0** |
+| [assignment_control-pid-pattacini](https://github.com/easy-peasy-robotics/assignment_control-pid-pattacini) | :white_check_mark: | **26** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-26-brightgreen.svg?style=flat-square)
 
 ---
 

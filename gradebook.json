@@ -2,7 +2,14 @@
   {
     "username": "pattacini",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_control-pid-pattacini",
+        "status": ":x:",
+        "last_commit_date": "2017-06-25 13:20:18 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   }
 ]

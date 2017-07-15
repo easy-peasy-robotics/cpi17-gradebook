@@ -91,6 +91,10 @@
 
 ### [**succoDiPompelmo**](https://github.com/succoDiPompelmo) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-succoDiPompelmo](https://github.com/easy-peasy-robotics/assignment_git-succoDiPompelmo) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

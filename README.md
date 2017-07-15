@@ -102,6 +102,10 @@
 
 ### [**tagaf**](https://github.com/tagaf) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-tagaf](https://github.com/easy-peasy-robotics/assignment_git-tagaf) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

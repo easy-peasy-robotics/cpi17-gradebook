@@ -128,7 +128,14 @@
   {
     "username": "xEnVrE",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-xEnVrE",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-15 09:14:17 UTC",
+        "score": 1
+      }
+    ],
+    "score": 1
   }
 ]

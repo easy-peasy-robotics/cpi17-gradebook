@@ -8,27 +8,13 @@
   {
     "username": "dinies",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-dinies",
-        "status": ":x:",
-        "last_commit_date": "2017-07-15 08:03:04 UTC",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
     "username": "dmaggi95",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-dmaggi95",
-        "status": ":x:",
-        "last_commit_date": "2017-07-15 08:03:04 UTC",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
@@ -52,14 +38,7 @@
   {
     "username": "Martcus18",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-Martcus18",
-        "status": ":x:",
-        "last_commit_date": "2017-07-15 08:03:04 UTC",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
@@ -83,66 +62,31 @@
   {
     "username": "saviodp7",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-saviodp7",
-        "status": ":x:",
-        "last_commit_date": "2017-07-15 08:03:04 UTC",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
     "username": "succoDiPompelmo",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-succoDiPompelmo",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-07-15 10:07:12 UTC",
-        "score": 1
-      }
-    ],
-    "score": 1
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "tagaf",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-tagaf",
-        "status": ":x:",
-        "last_commit_date": "2017-07-15 08:03:04 UTC",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
     "username": "valenorf",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-valenorf",
-        "status": ":x:",
-        "last_commit_date": "2017-07-15 08:03:04 UTC",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
     "username": "xEnVrE",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-xEnVrE",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-07-15 09:14:17 UTC",
-        "score": 1
-      }
-    ],
-    "score": 1
+    "assignments": [],
+    "score": 0
   }
 ]

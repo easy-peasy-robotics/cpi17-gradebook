@@ -127,9 +127,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-valenorf](https://github.com/easy-peasy-robotics/assignment_git-valenorf) | :x: | **0** |
+| [assignment_git-valenorf](https://github.com/easy-peasy-robotics/assignment_git-valenorf) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 

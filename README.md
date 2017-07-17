@@ -1,12 +1,5 @@
 ## Gradebook of Easy Peasy Robotics :chart_with_upwards_trend:
 
-### [**biancafrigerio**](https://github.com/biancafrigerio) grade
-
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
-
----
-
-
 ### [**dinies**](https://github.com/dinies) grade
 
 | assignment | status | score |
@@ -146,6 +139,41 @@
 
 
 ### [**mattskinosix**](https://github.com/mattskinosix) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**calde97**](https://github.com/calde97) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**mastersaxalto**](https://github.com/mastersaxalto) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**Momy93**](https://github.com/Momy93) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**robertsteven97**](https://github.com/robertsteven97) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**SmallerTurtle**](https://github.com/SmallerTurtle) grade
 
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 

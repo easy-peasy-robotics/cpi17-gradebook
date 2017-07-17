@@ -140,6 +140,10 @@
 
 ### [**mattskinosix**](https://github.com/mattskinosix) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-mattskinosix](https://github.com/easy-peasy-robotics/assignment_git-mattskinosix) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

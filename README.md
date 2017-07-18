@@ -191,3 +191,24 @@
 
 ---
 
+
+### [**Luigis94**](https://github.com/Luigis94) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**ppaola**](https://github.com/ppaola) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**SamueleLanzanova**](https://github.com/SamueleLanzanova) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+

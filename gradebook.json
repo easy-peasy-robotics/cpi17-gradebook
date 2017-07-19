@@ -215,7 +215,14 @@
   {
     "username": "robertsteven97",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-robertsteven97",
+        "status": ":x:",
+        "last_commit_date": "2017-07-15 08:03:04 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {

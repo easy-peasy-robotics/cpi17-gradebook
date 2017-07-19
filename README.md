@@ -216,6 +216,10 @@
 
 ### [**SamueleLanzanova**](https://github.com/SamueleLanzanova) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-SamueleLanzanova](https://github.com/easy-peasy-robotics/assignment_git-SamueleLanzanova) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

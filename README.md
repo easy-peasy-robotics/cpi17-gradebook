@@ -35,11 +35,12 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-GianlucaCerilli](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-GianlucaCerilli) | :white_check_mark: | **1** |
+| [tutorial_find-wally-GianlucaCerilli](https://github.com/easy-peasy-robotics/tutorial_find-wally-GianlucaCerilli) | :white_check_mark: | **2** |
 | [assignment_git-GianlucaCerilli](https://github.com/easy-peasy-robotics/assignment_git-GianlucaCerilli) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-GianlucaCerilli](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-GianlucaCerilli) | :white_check_mark: | **15** |
 | [assignment_control-pid-GianlucaCerilli](https://github.com/easy-peasy-robotics/assignment_control-pid-GianlucaCerilli) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-23-brightgreen.svg?style=flat-square)
 
 ---
 

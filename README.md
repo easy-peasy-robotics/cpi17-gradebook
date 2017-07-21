@@ -271,6 +271,7 @@
 | [tutorial_yarp-basics-SamueleLanzanova](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-SamueleLanzanova) | :white_check_mark: | **1** |
 | [assignment_git-SamueleLanzanova](https://github.com/easy-peasy-robotics/assignment_git-SamueleLanzanova) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-SamueleLanzanova](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-SamueleLanzanova) | :white_check_mark: | **15** |
+| [assignment_control-pid-SamueleLanzanova](https://github.com/easy-peasy-robotics/assignment_control-pid-SamueleLanzanova) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 

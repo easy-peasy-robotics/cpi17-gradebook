@@ -368,8 +368,15 @@
   {
     "username": "SamueleLanzanova",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-SamueleLanzanova",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-19 10:11:09 UTC",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "MarcoTir",

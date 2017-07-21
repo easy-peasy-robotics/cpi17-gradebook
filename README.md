@@ -191,10 +191,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-mattskinosix](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-mattskinosix) | :white_check_mark: | **1** |
 | [assignment_git-mattskinosix](https://github.com/easy-peasy-robotics/assignment_git-mattskinosix) | :x: | **0** |
-| [assignment_yarp-find-rgb-mattskinosix](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-mattskinosix) | :white_check_mark: | **15** |
+| [assignment_yarp-find-rgb-mattskinosix](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-mattskinosix) | :x: | **0** |
 | [assignment_control-pid-mattskinosix](https://github.com/easy-peasy-robotics/assignment_control-pid-mattskinosix) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -229,7 +229,13 @@
   },
   {
     "username": "mattskinosix",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-mattskinosix",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-mattskinosix",
@@ -238,7 +244,7 @@
         "score": 1
       }
     ],
-    "score": 1
+    "score": 2
   },
   {
     "username": "calde97",

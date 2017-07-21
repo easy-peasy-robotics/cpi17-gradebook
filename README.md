@@ -5,11 +5,12 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-dinies](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-dinies) | :white_check_mark: | **1** |
+| [tutorial_find-wally-dinies](https://github.com/easy-peasy-robotics/tutorial_find-wally-dinies) | :white_check_mark: | **2** |
 | [assignment_git-dinies](https://github.com/easy-peasy-robotics/assignment_git-dinies) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-dinies](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-dinies) | :white_check_mark: | **15** |
 | [assignment_control-pid-dinies](https://github.com/easy-peasy-robotics/assignment_control-pid-dinies) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-19-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -26,7 +26,13 @@
   },
   {
     "username": "dmaggi95",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-dmaggi95",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-dmaggi95",
@@ -35,7 +41,7 @@
         "score": 1
       }
     ],
-    "score": 1
+    "score": 2
   },
   {
     "username": "GianlucaCerilli",

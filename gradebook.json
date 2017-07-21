@@ -298,15 +298,9 @@
   },
   {
     "username": "ppaola",
-    "tutorials": [
-      {
-        "name": "tutorial_yarp-basics-ppaola",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
+    "tutorials": [],
     "assignments": [],
-    "score": 1
+    "score": 0
   },
   {
     "username": "SamueleLanzanova",

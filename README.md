@@ -171,10 +171,11 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
+| [tutorial_yarp-basics-Momy93](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-Momy93) | :white_check_mark: | **1** |
 | [assignment_git-Momy93](https://github.com/easy-peasy-robotics/assignment_git-Momy93) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-Momy93](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Momy93) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 

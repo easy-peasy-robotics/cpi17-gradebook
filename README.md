@@ -219,11 +219,12 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-mastersaxalto](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-mastersaxalto) | :white_check_mark: | **1** |
+| [tutorial_find-wally-mastersaxalto](https://github.com/easy-peasy-robotics/tutorial_find-wally-mastersaxalto) | :white_check_mark: | **2** |
 | [assignment_git-mastersaxalto](https://github.com/easy-peasy-robotics/assignment_git-mastersaxalto) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-mastersaxalto](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-mastersaxalto) | :white_check_mark: | **15** |
 | [assignment_control-pid-mastersaxalto](https://github.com/easy-peasy-robotics/assignment_control-pid-mastersaxalto) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-23-brightgreen.svg?style=flat-square)
 
 ---
 

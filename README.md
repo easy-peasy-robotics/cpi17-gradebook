@@ -111,6 +111,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-calde97](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-calde97) | :white_check_mark: | **1** |
 | [assignment_git-calde97](https://github.com/easy-peasy-robotics/assignment_git-calde97) | :white_check_mark: | **1** |
+| [assignment_yarp-find-rgb-calde97](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-calde97) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 

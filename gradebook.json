@@ -460,12 +460,12 @@
       },
       {
         "name": "assignment_yarp-find-rgb-SmallerTurtle",
-        "status": ":x:",
-        "last_commit_date": "2017-07-18 19:58:46 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-21 12:34:34 UTC",
+        "score": 15
       }
     ],
-    "score": 1
+    "score": 16
   },
   {
     "username": "ppaola",

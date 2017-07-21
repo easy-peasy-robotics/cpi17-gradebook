@@ -248,13 +248,7 @@
 
 ### [**MarcoTir**](https://github.com/MarcoTir) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_yarp-basics-MarcoTir](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-MarcoTir) | :white_check_mark: | **1** |
-| [assignment_git-MarcoTir](https://github.com/easy-peasy-robotics/assignment_git-MarcoTir) | :x: | **0** |
-| [assignment_yarp-find-rgb-MarcoTir](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-MarcoTir) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 

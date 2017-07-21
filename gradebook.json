@@ -43,28 +43,9 @@
   },
   {
     "username": "Redfox1096",
-    "tutorials": [
-      {
-        "name": "tutorial_yarp-basics-Redfox1096",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
-    "assignments": [
-      {
-        "name": "assignment_git-Redfox1096",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-07-19 14:05:19 UTC",
-        "score": 1
-      },
-      {
-        "name": "assignment_yarp-find-rgb-Redfox1096",
-        "status": ":x:",
-        "last_commit_date": "2017-07-18 19:58:46 UTC",
-        "score": 5
-      }
-    ],
-    "score": 2
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "romanofranz",

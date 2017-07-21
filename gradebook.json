@@ -92,8 +92,15 @@
   {
     "username": "calde97",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-calde97",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-19 16:24:45 UTC",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "mastersaxalto",

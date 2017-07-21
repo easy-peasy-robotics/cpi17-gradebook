@@ -133,8 +133,15 @@
   {
     "username": "rdolivaw",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-rdolivaw",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-18 10:15:08 UTC",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "Redfox1096",

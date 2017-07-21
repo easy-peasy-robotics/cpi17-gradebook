@@ -2,7 +2,11 @@
 
 ### [**dinies**](https://github.com/dinies) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-dinies](https://github.com/easy-peasy-robotics/assignment_git-dinies) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 

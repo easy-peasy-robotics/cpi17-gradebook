@@ -61,28 +61,9 @@
   },
   {
     "username": "succoDiPompelmo",
-    "tutorials": [
-      {
-        "name": "tutorial_yarp-basics-succoDiPompelmo",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
-    "assignments": [
-      {
-        "name": "assignment_git-succoDiPompelmo",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-07-15 10:07:12 UTC",
-        "score": 1
-      },
-      {
-        "name": "assignment_yarp-find-rgb-succoDiPompelmo",
-        "status": ":x:",
-        "last_commit_date": "2017-07-18 19:58:46 UTC",
-        "score": 5
-      }
-    ],
-    "score": 2
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "tagaf",

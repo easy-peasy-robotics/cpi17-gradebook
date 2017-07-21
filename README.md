@@ -23,13 +23,7 @@
 
 ### [**GiulioRomualdi**](https://github.com/GiulioRomualdi) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_yarp-basics-GiulioRomualdi](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-GiulioRomualdi) | :white_check_mark: | **1** |
-| [assignment_git-GiulioRomualdi](https://github.com/easy-peasy-robotics/assignment_git-GiulioRomualdi) | :white_check_mark: | **1** |
-| [assignment_yarp-find-rgb-GiulioRomualdi](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-GiulioRomualdi) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 

@@ -244,10 +244,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-SmallerTurtle](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-SmallerTurtle) | :white_check_mark: | **1** |
-| [assignment_git-SmallerTurtle](https://github.com/easy-peasy-robotics/assignment_git-SmallerTurtle) | :x: | **0** |
+| [assignment_git-SmallerTurtle](https://github.com/easy-peasy-robotics/assignment_git-SmallerTurtle) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-SmallerTurtle](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-SmallerTurtle) | :white_check_mark: | **15** |
 
-![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -151,9 +151,9 @@
 | [tutorial_yarp-basics-tagaf](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-tagaf) | :white_check_mark: | **1** |
 | [assignment_git-tagaf](https://github.com/easy-peasy-robotics/assignment_git-tagaf) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-tagaf](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-tagaf) | :white_check_mark: | **5** |
-| [assignment_control-pid-tagaf](https://github.com/easy-peasy-robotics/assignment_control-pid-tagaf) | :x: | **0** |
+| [assignment_control-pid-tagaf](https://github.com/easy-peasy-robotics/assignment_control-pid-tagaf) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -246,6 +246,11 @@
         "name": "tutorial_yarp-basics-saviodp7",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_find-wally-saviodp7",
+        "status": ":white_check_mark:",
+        "score": 2
       }
     ],
     "assignments": [
@@ -268,7 +273,7 @@
         "score": 5
       }
     ],
-    "score": 17
+    "score": 19
   },
   {
     "username": "succoDiPompelmo",

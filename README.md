@@ -217,6 +217,10 @@
 
 ### [**SmallerTurtle**](https://github.com/SmallerTurtle) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-SmallerTurtle](https://github.com/easy-peasy-robotics/assignment_git-SmallerTurtle) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

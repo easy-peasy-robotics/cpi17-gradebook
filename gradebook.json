@@ -67,28 +67,9 @@
   },
   {
     "username": "tagaf",
-    "tutorials": [
-      {
-        "name": "tutorial_yarp-basics-tagaf",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
-    "assignments": [
-      {
-        "name": "assignment_git-tagaf",
-        "status": ":x:",
-        "last_commit_date": "",
-        "score": 1
-      },
-      {
-        "name": "assignment_yarp-find-rgb-tagaf",
-        "status": ":x:",
-        "last_commit_date": "",
-        "score": 5
-      }
-    ],
-    "score": 1
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "valenorf",

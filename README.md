@@ -79,13 +79,7 @@
 
 ### [**tagaf**](https://github.com/tagaf) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_yarp-basics-tagaf](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-tagaf) | :white_check_mark: | **1** |
-| [assignment_git-tagaf](https://github.com/easy-peasy-robotics/assignment_git-tagaf) | :x: | **0** |
-| [assignment_yarp-find-rgb-tagaf](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-tagaf) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 

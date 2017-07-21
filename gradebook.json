@@ -132,7 +132,13 @@
   },
   {
     "username": "rdolivaw",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-rdolivaw",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-rdolivaw",
@@ -147,7 +153,7 @@
         "score": 5
       }
     ],
-    "score": 1
+    "score": 2
   },
   {
     "username": "Redfox1096",

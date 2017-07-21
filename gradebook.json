@@ -245,8 +245,15 @@
   {
     "username": "tagaf",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-tagaf",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-15 11:58:05 UTC",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "valenorf",

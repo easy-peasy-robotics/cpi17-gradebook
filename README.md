@@ -65,9 +65,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-Martcus18](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-Martcus18) | :white_check_mark: | **1** |
 | [assignment_git-Martcus18](https://github.com/easy-peasy-robotics/assignment_git-Martcus18) | :white_check_mark: | **1** |
-| [assignment_yarp-find-rgb-Martcus18](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Martcus18) | :x: | **0** |
+| [assignment_yarp-find-rgb-Martcus18](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Martcus18) | :white_check_mark: | **15** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -194,7 +194,11 @@
 
 ### [**robertsteven97**](https://github.com/robertsteven97) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-robertsteven97](https://github.com/easy-peasy-robotics/assignment_git-robertsteven97) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -319,8 +319,15 @@
   {
     "username": "robertsteven97",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-robertsteven97",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-07-19 19:51:55 UTC",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "SmallerTurtle",

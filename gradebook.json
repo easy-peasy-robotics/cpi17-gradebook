@@ -326,7 +326,13 @@
   },
   {
     "username": "MarcoTir",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-MarcoTir",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-MarcoTir",
@@ -335,6 +341,6 @@
         "score": 1
       }
     ],
-    "score": 0
+    "score": 1
   }
 ]

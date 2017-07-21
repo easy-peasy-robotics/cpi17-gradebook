@@ -77,6 +77,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [assignment_git-rdolivaw](https://github.com/easy-peasy-robotics/assignment_git-rdolivaw) | :white_check_mark: | **1** |
+| [assignment_yarp-find-rgb-rdolivaw](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-rdolivaw) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 

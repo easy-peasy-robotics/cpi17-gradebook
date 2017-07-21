@@ -162,13 +162,7 @@
 
 ### [**robertsteven97**](https://github.com/robertsteven97) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_yarp-basics-robertsteven97](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-robertsteven97) | :white_check_mark: | **1** |
-| [assignment_git-robertsteven97](https://github.com/easy-peasy-robotics/assignment_git-robertsteven97) | :white_check_mark: | **1** |
-| [assignment_yarp-find-rgb-robertsteven97](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-robertsteven97) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 

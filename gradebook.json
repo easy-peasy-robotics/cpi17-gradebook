@@ -242,28 +242,9 @@
   },
   {
     "username": "Momy93",
-    "tutorials": [
-      {
-        "name": "tutorial_yarp-basics-Momy93",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
-    "assignments": [
-      {
-        "name": "assignment_git-Momy93",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-07-19 21:35:01 UTC",
-        "score": 1
-      },
-      {
-        "name": "assignment_yarp-find-rgb-Momy93",
-        "status": ":x:",
-        "last_commit_date": "2017-07-18 19:58:46 UTC",
-        "score": 5
-      }
-    ],
-    "score": 2
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "robertsteven97",

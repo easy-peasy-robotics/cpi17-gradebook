@@ -62,13 +62,6 @@
 ---
 
 
-### [**Lorybat1998UCD**](https://github.com/Lorybat1998UCD) grade
-
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
-
----
-
-
 ### [**Martcus18**](https://github.com/Martcus18) grade
 
 | assignment | status | score |

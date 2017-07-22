@@ -91,9 +91,9 @@
 | [tutorial_yarp-basics-rdolivaw](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-rdolivaw) | :white_check_mark: | **1** |
 | [assignment_git-rdolivaw](https://github.com/easy-peasy-robotics/assignment_git-rdolivaw) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-rdolivaw](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-rdolivaw) | :white_check_mark: | **15** |
-| [assignment_control-pid-rdolivaw](https://github.com/easy-peasy-robotics/assignment_control-pid-rdolivaw) | :x: | **0** |
+| [assignment_control-pid-rdolivaw](https://github.com/easy-peasy-robotics/assignment_control-pid-rdolivaw) | :white_check_mark: | **22** |
 
-![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-39-brightgreen.svg?style=flat-square)
 
 ---
 

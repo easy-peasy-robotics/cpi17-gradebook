@@ -51,11 +51,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-GiulioRomualdi](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-GiulioRomualdi) | :white_check_mark: | **1** |
 | [tutorial_find-wally-GiulioRomualdi](https://github.com/easy-peasy-robotics/tutorial_find-wally-GiulioRomualdi) | :white_check_mark: | **2** |
+| [tutorial_yarp-opencv-GiulioRomualdi](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-GiulioRomualdi) | :white_check_mark: | **1** |
 | [assignment_git-GiulioRomualdi](https://github.com/easy-peasy-robotics/assignment_git-GiulioRomualdi) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-GiulioRomualdi](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-GiulioRomualdi) | :white_check_mark: | **15** |
 | [assignment_control-pid-GiulioRomualdi](https://github.com/easy-peasy-robotics/assignment_control-pid-GiulioRomualdi) | :white_check_mark: | **26** |
 
-![total score](https://img.shields.io/badge/total_score-45-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-46-brightgreen.svg?style=flat-square)
 
 ---
 

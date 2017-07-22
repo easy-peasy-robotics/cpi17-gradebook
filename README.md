@@ -144,11 +144,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-succoDiPompelmo](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-succoDiPompelmo) | :white_check_mark: | **1** |
 | [tutorial_find-wally-succoDiPompelmo](https://github.com/easy-peasy-robotics/tutorial_find-wally-succoDiPompelmo) | :white_check_mark: | **2** |
+| [tutorial_yarp-opencv-succoDiPompelmo](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-succoDiPompelmo) | :white_check_mark: | **1** |
 | [assignment_git-succoDiPompelmo](https://github.com/easy-peasy-robotics/assignment_git-succoDiPompelmo) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-succoDiPompelmo](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-succoDiPompelmo) | :white_check_mark: | **15** |
 | [assignment_control-pid-succoDiPompelmo](https://github.com/easy-peasy-robotics/assignment_control-pid-succoDiPompelmo) | :white_check_mark: | **18** |
 
-![total score](https://img.shields.io/badge/total_score-37-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-38-brightgreen.svg?style=flat-square)
 
 ---
 

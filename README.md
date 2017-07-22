@@ -129,9 +129,9 @@
 | [tutorial_find-wally-saviodp7](https://github.com/easy-peasy-robotics/tutorial_find-wally-saviodp7) | :white_check_mark: | **2** |
 | [assignment_git-saviodp7](https://github.com/easy-peasy-robotics/assignment_git-saviodp7) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-saviodp7](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-saviodp7) | :white_check_mark: | **15** |
-| [assignment_control-pid-saviodp7](https://github.com/easy-peasy-robotics/assignment_control-pid-saviodp7) | :x: | **0** |
+| [assignment_control-pid-saviodp7](https://github.com/easy-peasy-robotics/assignment_control-pid-saviodp7) | :white_check_mark: | **26** |
 
-![total score](https://img.shields.io/badge/total_score-19-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-45-brightgreen.svg?style=flat-square)
 
 ---
 

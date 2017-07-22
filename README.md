@@ -246,11 +246,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-Momy93](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-Momy93) | :white_check_mark: | **1** |
 | [tutorial_find-wally-Momy93](https://github.com/easy-peasy-robotics/tutorial_find-wally-Momy93) | :white_check_mark: | **2** |
+| [tutorial_yarp-opencv-Momy93](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-Momy93) | :white_check_mark: | **1** |
 | [assignment_git-Momy93](https://github.com/easy-peasy-robotics/assignment_git-Momy93) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-Momy93](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Momy93) | :white_check_mark: | **15** |
 | [assignment_control-pid-Momy93](https://github.com/easy-peasy-robotics/assignment_control-pid-Momy93) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-33-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-34-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -175,11 +175,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-valenorf](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-valenorf) | :white_check_mark: | **1** |
 | [tutorial_find-wally-valenorf](https://github.com/easy-peasy-robotics/tutorial_find-wally-valenorf) | :white_check_mark: | **2** |
+| [tutorial_yarp-opencv-valenorf](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-valenorf) | :white_check_mark: | **1** |
 | [assignment_git-valenorf](https://github.com/easy-peasy-robotics/assignment_git-valenorf) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-valenorf](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-valenorf) | :white_check_mark: | **15** |
 | [assignment_control-pid-valenorf](https://github.com/easy-peasy-robotics/assignment_control-pid-valenorf) | :white_check_mark: | **18** |
 
-![total score](https://img.shields.io/badge/total_score-37-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-38-brightgreen.svg?style=flat-square)
 
 ---
 

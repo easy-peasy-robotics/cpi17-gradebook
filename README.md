@@ -21,11 +21,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-dmaggi95](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-dmaggi95) | :white_check_mark: | **1** |
 | [tutorial_find-wally-dmaggi95](https://github.com/easy-peasy-robotics/tutorial_find-wally-dmaggi95) | :white_check_mark: | **2** |
+| [tutorial_yarp-opencv-dmaggi95](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-dmaggi95) | :white_check_mark: | **1** |
 | [assignment_git-dmaggi95](https://github.com/easy-peasy-robotics/assignment_git-dmaggi95) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-dmaggi95](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-dmaggi95) | :white_check_mark: | **15** |
 | [assignment_control-pid-dmaggi95](https://github.com/easy-peasy-robotics/assignment_control-pid-dmaggi95) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-29-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-30-brightgreen.svg?style=flat-square)
 
 ---
 

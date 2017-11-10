@@ -1,4 +1,4 @@
-## Gradebook of Easy Peasy Robotics :chart_with_upwards_trend:
+## Gradebook of Easy Peasy Robotics at CPI17 :chart_with_upwards_trend:
 
 ### [**dinies**](https://github.com/dinies) grade
 
